@@ -1,0 +1,11 @@
+{
+    "name": "mine-reactivity",
+    "scripts": {
+        "mine": "http-server ./src -c-1"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "http-server": "^0.12.3"
+    }
+}
